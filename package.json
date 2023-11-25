@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "James Leach <jbleach@gmail.com> (https://github.com/jbleach)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.11"
+  }
+}
