@@ -8,5 +8,5 @@ export const data = new SlashCommandBuilder()
 // Execute function export
 export async function execute(interaction) {
   let now = new Date();
-  await interaction.reply(now.getUTCHours()+":"+now.getUTCMinutes()+" UTC");
+  await interaction.reply("Current time is "+now.getUTCHours()+":"+now.getUTCMinutes()+" UTC");
 }
