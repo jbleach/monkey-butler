@@ -25,7 +25,7 @@ export async function execute(interaction) {
     if(leftovers > 0) {
       medals = medals + (tiers[fullTier]*leftovers);
     }
-    reply = 'You need '+medals+' medals to finish the talent leap for your fighter.';
+    reply = 'With '+points+' talent points, you will need '+medals+' medals to finish the talent leap for your fighter.';
   } else if(points < 74) {
     reply = 'Your fighter needs to be 5/5/5/5 with 74 talent points in order to start the leap process.'
   } else {
