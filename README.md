@@ -57,6 +57,7 @@ Once your commands have been deployed, then you can run your bot!
 -   `commands/time/min2days.js`: Requires an integer parameter for number of minutes and returns minutes converted into days.
 -   `commands/faq/leap.js`: Returns the information reqarding leap requirements for legendary fighters.
 -   `commands/faq/leapmedals.js`: Requires integer parameter for current talent points and returns the medals required to complete a fighter leap.
+-   `commands/points/interstellarspeedpoints.js`: Requires integer parameter for desired points and returns number of speeds needed to earn them.
 
 ## Documentation
 
