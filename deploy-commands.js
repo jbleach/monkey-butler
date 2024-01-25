@@ -24,7 +24,7 @@ for (const file of commandFiles) {
 // Construct and prepare an instance of the REST module
 const rest = new REST().setToken(process.env.TOKEN);
 
-// and deploy your commands!
+//  deploy commands to the discord server
 (async () => {
   try {
     console.log(`Started refreshing ${commands.length} application (/) commands.`);

@@ -74,3 +74,4 @@ Once your commands have been deployed, then you can run your bot!
  - [discord.js](https://github.com/discordjs)
  - [Age of Apes - tap4fun](https://www.tap4fun.com/game/en)
  - [Coding Train](https://github.com/CodingTrain)
+ - [Readme.so](https://readme.so/)
