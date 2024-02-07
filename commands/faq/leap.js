@@ -3,11 +3,11 @@ import { SlashCommandBuilder } from 'discord.js';
 // Command Builder export
 export const data = new SlashCommandBuilder()
   .setName('leap')
-  .setDescription('Tells how many medals are required to leap a fighter');
+  .setDescription('Tells how many medals are required to leap a legendary fighter');
 
 // Execute function export
 export async function execute(interaction) {
-  let reply = 'It takes 700 medals to leap a fighter after they have reached 5/5/5/5.';
+  let reply = 'It takes 700 medals to leap a legendary fighter after they have reached 5/5/5/5.';
   reply += '\nTalent Points'
   reply += '\n75-79: 10 medals each';
   reply += '\n80-84: 15 medals each';
