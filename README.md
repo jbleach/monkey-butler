@@ -92,16 +92,16 @@ Once your commands have been deployed, then you can run your bot!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jbleach/signup.svg?style=for-the-badge
-[contributors-url]: https://github.com/jbleach/signup/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jbleach/signup.svg?style=for-the-badge
-[forks-url]: https://github.com/jbleach/signup/network/members
-[stars-shield]: https://img.shields.io/github/stars/jbleach/signup.svg?style=for-the-badge
-[stars-url]: https://github.com/jbleach/signup/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jbleach/signup.svg?style=for-the-badge
-[issues-url]: https://github.com/jbleach/signup/issues
-[license-shield]: https://img.shields.io/github/license/jbleach/signup.svg?style=for-the-badge
-[license-url]: https://github.com/jbleach/signup/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/jbleach/monkey-butler.svg?style=for-the-badge
+[contributors-url]: https://github.com/jbleach/monkey-butler/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jbleach/monkey-butler.svg?style=for-the-badge
+[forks-url]: https://github.com/jbleach/monkey-butler/network/members
+[stars-shield]: https://img.shields.io/github/stars/jbleach/monkey-butler.svg?style=for-the-badge
+[stars-url]: https://github.com/jbleach/monkey-butler/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jbleach/monkey-butler.svg?style=for-the-badge
+[issues-url]: https://github.com/jbleach/monkey-butler/issues
+[license-shield]: https://img.shields.io/github/license/jbleach/monkey-butler.svg?style=for-the-badge
+[license-url]: https://github.com/jbleach/monkey-butler/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/james-leach-4ab085280/
 [product-screenshot]: images/screenshot.png
